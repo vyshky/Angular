@@ -1,0 +1,11 @@
+Реализовать класс List<T> , чтобы был generic.
+Реализовать следущий функционал
+
+Method() => 
+//Add
+//Remove
+//Print
+//Contains
+
+Param =>
+Lenght
